@@ -22,8 +22,8 @@ Using Canny operator from cv2,detect the edges of the image.
 
 Using the HoughLinesP(),detect line co-ordinates for every points in the images.Using For loop,draw the lines on the found co-ordinates.Display the image.
 # Program
-# DEVELOPED BY : DANICA CHRISTA
-# REG NO :212223240022
+# DEVELOPED BY : Hezron Belix
+# REG NO :212223230078
 
 ### Input image
 ```
